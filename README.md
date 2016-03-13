@@ -1,0 +1,2 @@
+# LegacyNetwork
+A minecraft server.
